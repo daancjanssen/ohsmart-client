@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ohsmart-client/static/css/main.487a0db9.css",
-    "main.js": "/ohsmart-client/static/js/main.19b8df66.js",
+    "main.css": "/ohsmart-client/static/css/main.7b8a009b.css",
+    "main.js": "/ohsmart-client/static/js/main.6f8ae89c.js",
     "static/js/787.a2ffa7d0.chunk.js": "/ohsmart-client/static/js/787.a2ffa7d0.chunk.js",
     "static/media/logo-ohsmart.png": "/ohsmart-client/static/media/logo-ohsmart.bf7f1bad637d14650cab.png",
     "static/media/roboto-all-500-normal.woff": "/ohsmart-client/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
@@ -24,7 +24,7 @@
     "static/media/roboto-cyrillic-700-normal.woff2": "/ohsmart-client/static/media/roboto-cyrillic-700-normal.d010f1f324e111a22e53.woff2",
     "static/media/roboto-cyrillic-400-normal.woff2": "/ohsmart-client/static/media/roboto-cyrillic-400-normal.71a33b6b50457b2c903a.woff2",
     "static/media/roboto-cyrillic-300-normal.woff2": "/ohsmart-client/static/media/roboto-cyrillic-300-normal.1431d1cef06ad04f5458.woff2",
-    "static/media/logo-dans.svg": "/ohsmart-client/static/media/logo-dans.d32fa164fd57792b346be0d46aa544d2.svg",
+    "static/media/logo-dans.svg": "/ohsmart-client/static/media/logo-dans.235d06b7fc2697f8c6c0df0a4b5d163e.svg",
     "static/media/roboto-greek-300-normal.woff2": "/ohsmart-client/static/media/roboto-greek-300-normal.db2632771401f61463fe.woff2",
     "static/media/roboto-greek-400-normal.woff2": "/ohsmart-client/static/media/roboto-greek-400-normal.c35e4c3958e209d17b31.woff2",
     "static/media/roboto-greek-500-normal.woff2": "/ohsmart-client/static/media/roboto-greek-500-normal.9ac81fefbe6c319ea40b.woff2",
@@ -38,12 +38,12 @@
     "static/media/roboto-greek-ext-300-normal.woff2": "/ohsmart-client/static/media/roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
     "static/media/roboto-greek-ext-700-normal.woff2": "/ohsmart-client/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/ohsmart-client/index.html",
-    "main.487a0db9.css.map": "/ohsmart-client/static/css/main.487a0db9.css.map",
-    "main.19b8df66.js.map": "/ohsmart-client/static/js/main.19b8df66.js.map",
+    "main.7b8a009b.css.map": "/ohsmart-client/static/css/main.7b8a009b.css.map",
+    "main.6f8ae89c.js.map": "/ohsmart-client/static/js/main.6f8ae89c.js.map",
     "787.a2ffa7d0.chunk.js.map": "/ohsmart-client/static/js/787.a2ffa7d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.487a0db9.css",
-    "static/js/main.19b8df66.js"
+    "static/css/main.7b8a009b.css",
+    "static/js/main.6f8ae89c.js"
   ]
 }
